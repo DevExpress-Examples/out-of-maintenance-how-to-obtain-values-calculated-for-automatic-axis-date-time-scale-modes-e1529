@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/DateTimeScales/Form1.cs) (VB: [Form1.vb](./VB/DateTimeScales/Form1.vb))
+<!-- default file list end -->
 # How to obtain values calculated for automatic axis date-time scale modes
 
 
