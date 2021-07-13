@@ -1,7 +1,7 @@
 <!-- default file list -->
 *Files to look at*:
 
-* [Form1.cs](./CS/MainForm.cs) (VB: [Form1.vb](./VB/MainForm.vb))
+* [MainForm.cs](./CS/MainForm.cs) (VB: [MainForm.vb](./VB/MainForm.vb))
 <!-- default file list end -->
 
 # Charts - How to obtain values calculated for automatic axis date-time scale modes
