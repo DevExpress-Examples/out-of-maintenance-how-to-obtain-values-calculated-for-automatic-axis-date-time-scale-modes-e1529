@@ -8,7 +8,7 @@
 
 This example demonstrates how you can obtain the values calculated for an axis' date-time grid alignment and measure unit properties which are read-only, when automatic axis date-time scale modes are used.
 
-Handle the [ChartControl.AxisScaleChanged](https://docs.devexpress.com/WindowsForms/DevExpress.XtraCharts.ChartControl.AxisScaleChanged) ([WebChartControl.AxisScaleChanged](https://docs.devexpress.com/AspNet/DevExpress.XtraCharts.Web.WebChartControl.AxisScaleChanged)) event to access the axis itself and customize its properties.
+Handle the [ChartControl.AxisScaleChanged](https://docs.devexpress.com/WindowsForms/DevExpress.XtraCharts.ChartControl.AxisScaleChanged) ([WebChartControl.AxisScaleChanged](https://docs.devexpress.com/AspNet/DevExpress.XtraCharts.Web.WebChartControl.AxisScaleChanged)) event to access the axis itself and customize its scale properties.
 
 ## Documentation
 
